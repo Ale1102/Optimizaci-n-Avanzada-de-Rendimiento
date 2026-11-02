@@ -175,4 +175,5 @@ Ejecutar auditoría de rendimiento:
 
 ---
 
-Construido con ❤️ usando Next.js 16 + TypeScript + Tailwind CSS
+Construido usando Next.js 16 + TypeScript + Tailwind CSS
+César Avendaño
